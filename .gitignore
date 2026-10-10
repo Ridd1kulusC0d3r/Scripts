@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+# JavaScript / TypeScript
+node_modules/
+dist/
+coverage/
+# Local data, credentials and generated outputs
+.env
+.env.*
+!.env.example
+*.log
+*.tmp
+.DS_Store
+# IDE
+.idea/
+.vscode/

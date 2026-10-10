@@ -1,0 +1,132 @@
+{
+  "schema_version": 1,
+  "source_commit": "8b23d3bdced370562574843450301a9d8d4c31ad",
+  "original_script_count": 25,
+  "files": [
+    {
+      "from": "Testes/Assembly/Caculator.asm",
+      "to": "assembly/legacy/calculator.asm",
+      "sha": "e50e433f90860a4a5d9d4405ed05f34a413d41d2"
+    },
+    {
+      "from": "Testes/C/buscadados.c",
+      "to": "c/legacy/buscadados.c",
+      "sha": "1a7fa15b4bf7e5d4f6d735213639f7e6f1c476bb"
+    },
+    {
+      "from": "Testes/cobol/Olamundo.cpy",
+      "to": "cobol/legacy/olamundo.cpy",
+      "sha": "9385cab3f2eb5625bb6218f9253635df1551cf4d"
+    },
+    {
+      "from": "Testes/c#/Servicesextension.cs",
+      "to": "csharp/legacy/servicesextension.cs",
+      "sha": "bf022bf250ad0f4cd9547aa78a69571f2431bb84"
+    },
+    {
+      "from": "Testes/GO/buscacpf.go",
+      "to": "go/legacy/buscacpf.go",
+      "sha": "b7b98b322ac81151558d16eb3273e509292ff26f"
+    },
+    {
+      "from": "Testes/Java/buscadados.java",
+      "to": "java/legacy/buscadados.java",
+      "sha": "d8b03d749855500ab7412cb2141678ce071d0e96"
+    },
+    {
+      "from": "Testes/Java_script/Busca namett.js",
+      "to": "javascript/legacy/busca-namett.js",
+      "sha": "664087c0104641642c8d6f45d84124cce82caa64"
+    },
+    {
+      "from": "Testes/Java_script/buscadados.js",
+      "to": "javascript/legacy/buscadados.js",
+      "sha": "855063ea56c5cac473fd90c7b6f46e37438bccdb"
+    },
+    {
+      "from": "Testes/Java_script/buscanamefb.js",
+      "to": "javascript/legacy/buscanamefb.js",
+      "sha": "5688d3eee8439be91aeb7cdd98566ab5a8fc6325"
+    },
+    {
+      "from": "Testes/Pascal/caculator.pas",
+      "to": "pascal/legacy/calculator.pas",
+      "sha": "af5f8e7b47b89f34d9081fba6f66e6af601ea45a"
+    },
+    {
+      "from": "Testes/php/buscadado.php",
+      "to": "php/legacy/buscadado.php",
+      "sha": "3c7c505e56b2fc1d21ab4b43f101fabf67b323ea"
+    },
+    {
+      "from": "Testes/Python/Busca-cpf-web.py",
+      "to": "python/legacy/busca-cpf-web.py",
+      "sha": "c299729523835dac0dca8117193498a58f931430"
+    },
+    {
+      "from": "Testes/Python/buscacpf2.py",
+      "to": "python/legacy/buscacpf2.py",
+      "sha": "66fbae0c1ea5351ed46ce45b34e4a14f28b27771"
+    },
+    {
+      "from": "Testes/Python/buscadado.py",
+      "to": "python/legacy/buscadado.py",
+      "sha": "54c0d87df87d2ea55ff329f21876a143106fa99a"
+    },
+    {
+      "from": "Testes/Python/buscasdados.py",
+      "to": "python/legacy/buscasdados.py",
+      "sha": "d2c46754aaaf04ec53a36321d9a4fe65d2cb7201"
+    },
+    {
+      "from": "Testes/Python/Comportamento_Supeito_XLS.py",
+      "to": "python/legacy/comportamento-suspeito-xls.py",
+      "sha": "1a1006c669d81e457b8bfcaa70454b0dd586aca7"
+    },
+    {
+      "from": "Testes/R/buscadados.r",
+      "to": "r/legacy/buscadados.r",
+      "sha": "7bd4762f84555efc05d1057bd3df1ab7dda9b2eb"
+    },
+    {
+      "from": "Testes/Ruby/buscasdados.rb",
+      "to": "ruby/legacy/buscasdados.rb",
+      "sha": "5e49f4a6f420771fdb6ffeb767b3bde0ae21f6e8"
+    },
+    {
+      "from": "Testes/Ruby/Calculator.rb",
+      "to": "ruby/legacy/calculator.rb",
+      "sha": "60c656cf00637ff1a91c91e0de28ce8b33a2b799"
+    },
+    {
+      "from": "Testes/Ruby/Olámundo.rb",
+      "to": "ruby/legacy/ola-mundo.rb",
+      "sha": "cdebc00b4660894fd5367a9bbe9c888a44c3073e"
+    },
+    {
+      "from": "linux/Wazuh desabilit cache",
+      "to": "shell/legacy/wazuh-disable-cache.sh",
+      "sha": "a64ecbb04fbc194a83c0e81df3a0cb07eb864e96"
+    },
+    {
+      "from": "Testes/sql/buscadados.sql",
+      "to": "sql/legacy/buscadados.sql",
+      "sha": "e26d8c0f1af421df1c67014598574be381782cad"
+    },
+    {
+      "from": "Testes/Swift/buscadados.swift",
+      "to": "swift/legacy/buscadados.swift",
+      "sha": "17d5b098092838c6f3f1b8d55e743f873166a6e2"
+    },
+    {
+      "from": "Testes/TypeScript/buscadados.ts",
+      "to": "typescript/legacy/buscadados.ts",
+      "sha": "c436bf81a48f742745013c8b9e0940fd6160d77c"
+    },
+    {
+      "from": "Rwindows/Wazuh desabilit cache",
+      "to": "windows/legacy/wazuh-disable-cache.bat",
+      "sha": "0f72ce5ec5cb6c0b851379aff803ab0f1efedb8f"
+    }
+  ]
+}
