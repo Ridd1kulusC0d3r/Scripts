@@ -1,5 +1,3 @@
-<div align="center">
-
 # 🧰 Scripts Library
 
 **Automação • Sistemas • Linguagens • Web • OSINT • Mainframe**
@@ -9,8 +7,6 @@ Coleção organizada de exemplos, utilitários e estudos de programação.
 ![GitHub last commit](https://img.shields.io/github/last-commit/Ridd1kulusC0d3r/Scripts?style=flat-square) ![GitHub repo size](https://img.shields.io/github/repo-size/Ridd1kulusC0d3r/Scripts?style=flat-square)
 
 [📚 Catálogo](./docs/CATALOG.md) · [🧭 Guia de uso](./docs/GETTING-STARTED.md) · [🛡️ Segurança](./docs/SAFETY.md) · [🤝 Contribuir](./docs/CONTRIBUTING.md)
-
-</div>
 
 ---
 
